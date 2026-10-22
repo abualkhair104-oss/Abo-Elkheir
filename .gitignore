@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+coverage/
+.vercel/
+.env*
+!.env.example
+npm-debug.log*
+*.log
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+# Files explicitly kept out of the GitHub upload folder.
+لا ترفع/
